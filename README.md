@@ -10,7 +10,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/hackelite01"><img title="Language" src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?v=103"></a>
-[![Python 3.5](https://img.shields.io/badge/Python-3.5-yellow.svg)](http://www.python.org/download/) 
+<a href="https://github.com/hackelite01"><img title="PyVer" src="https://img.shields.io/badge/Python-3.5-yellow.svg"></a>
 </p><br>
 
 # KnightSpy 
