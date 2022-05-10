@@ -1,5 +1,5 @@
 
-[![Python 3.5](https://img.shields.io/badge/Python-3.5-yellow.svg)](http://www.python.org/download/) 
+
 <p align="center">
 <a href="https://github.com/hackelite01"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
@@ -10,6 +10,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/hackelite01"><img title="Language" src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?v=103"></a>
+[![Python 3.5](https://img.shields.io/badge/Python-3.5-yellow.svg)](http://www.python.org/download/) 
 </p><br>
 
 # KnightSpy 
