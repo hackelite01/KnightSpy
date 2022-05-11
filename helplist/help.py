@@ -98,7 +98,7 @@ def infolist3():
       
       Banner()
       time.sleep(0.1)
-      print (Fore.GREEN+" [*]"+Fore.BLUE+"  Devloper : Mayank Rajput :) \n")
+      print (Fore.GREEN+" [*]"+Fore.BLUE+"  Developer : Mayank Rajput :) \n")
       time.sleep(0.1)
       print (Fore.GREEN+" [*]"+Fore.MAGENTA+" Github Profile  : hackelite01 :)\n")
       time.sleep(0.1)
